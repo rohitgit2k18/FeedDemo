@@ -1,0 +1,14 @@
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\bin\Debug\netstandard2.0\FeedsDemo.deps.json
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\bin\Debug\netstandard2.0\FeedsDemo.dll
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\bin\Debug\netstandard2.0\ref\FeedsDemo.dll
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\bin\Debug\netstandard2.0\FeedsDemo.pdb
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\obj\Debug\netstandard2.0\FeedsDemo.csprojAssemblyReference.cache
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\obj\Debug\netstandard2.0\FeedsDemo.csproj.CoreCompileInputs.cache
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\obj\Debug\netstandard2.0\FeedsDemo.AssemblyInfoInputs.cache
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\obj\Debug\netstandard2.0\FeedsDemo.AssemblyInfo.cs
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\obj\Debug\netstandard2.0\FeedsDemo.dll
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\obj\Debug\netstandard2.0\ref\FeedsDemo.dll
+D:\Learning\xam New\Code\FeedsDemo\FeedsDemo\FeedsDemo\obj\Debug\netstandard2.0\FeedsDemo.pdb
